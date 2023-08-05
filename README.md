@@ -2,7 +2,9 @@
 - 👀 I’m interested in agile team writing java and flutter
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate with you to build quality systems
-- 📫 Reach out to me on sundaypetersp12@gmail.com / sundayp123456789@gmail.com
+- 📫 Reach out to me on
+- sundaypetersp12@gmail.com
+- sundayp123456789@gmail.com
 - https://www.linkedin.com/in/sunday-peter-b74ab3198/
 
 <!---
