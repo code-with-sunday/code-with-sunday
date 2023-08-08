@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-with-sunday
 - 👀 I’m interested in agile team writing java and flutter
-- 🌱 I’m currently learning java
+- 🌱 I’m a backend developer with java
 - 💞️ I’m looking to collaborate with your team to build quality systems
 - 📫 Reach out to me on
 - sundaypetersp12@gmail.com
