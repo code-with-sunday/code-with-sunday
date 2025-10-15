@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-with-sunday
+- 👋 Hi, my name is SUNDAY PETER, a.k.a @code-with-sunday
 - 👀 I’m interested in agile team writing java
 - 🌱 I’m a backend developer with java
 - 💞️ I’m looking to collaborate with your team to build quality systems
